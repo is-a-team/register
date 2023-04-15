@@ -1,0 +1,14 @@
+{
+    "description": "example.is-a.team",
+    "repo": "https://github.com/is-a-team/register",
+    "owner": {
+        "username": "BasToTheMax",
+        "email": "info@bastothemax.nl"
+    },
+    "record": {
+        "CNAME": "example.com",
+        "A": "1.1.1.1",
+        "NS": ["1.1.1.1", "8.8.8.8"],
+        "TXT": "Hey"
+    }
+}
