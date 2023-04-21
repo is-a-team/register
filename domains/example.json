@@ -2,8 +2,8 @@
     "description": "example.is-a.team",
     "repo": "https://github.com/is-a-team/register",
     "owner": {
-        "username": "BasToTheMax",
-        "email": "info@bastothemax.nl"
+        "username": "is-a-team",
+        "email": "my@email.com"
     },
     "record": {
         "CNAME": "example.com",
